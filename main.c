@@ -42,7 +42,7 @@ int fibo_rec(int n)
 int main()
 {
     int n,choix;
-    printf("Bonjour!\n Veuillez entrer le rang de la suite\n");
+    printf("Bonjour!\n Veuillez entrer le rang de la suite FIBONACCI souhaite\n");
     scanf("%d",&n);
     printf("vous avez deux choix\n1= utiliser la fonction iterative\n2= utiliser la fonction recursive\n");
     scanf("%d",&choix);
